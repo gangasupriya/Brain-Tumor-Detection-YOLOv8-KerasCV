@@ -1,6 +1,6 @@
 # Brain-Tumor-Detection-YOLOv8-KerasCV
 
-#  Brain Tumor Detection with YOLOv8 & KerasCV
+
 
 This project applies YOLOv8 (XS backbone) using KerasCV to perform brain tumor detection on MRI scans. It leverages the Kaggle dataset “Medical Image DataSet: Brain Tumor Detection” formatted for object detection tasks.
 
